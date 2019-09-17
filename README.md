@@ -1,5 +1,5 @@
-# TEXT BOMBER 
-Very simple sms bomber written in python.
+# TEXT-BOMBER-JAVA
+Very simple sms bomber written in java.
   
 ### CONFIG
 If you have no idea what an smtp server is, and you're not using gmail, check this link:   https://www.arclab.com/en/kb/email/list-of-smtp-and-pop3-servers-mailserver-list.html  
